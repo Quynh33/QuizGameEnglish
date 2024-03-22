@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3abd2ef9a280d44b89d819ba8169741, type: 3}
+  m_Name: Level5
+  m_EditorClassIdentifier: 
+  level: 5
+  questions:
+  - questionInfor: What is this ?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 3725e6b70e6e1b04e9257108ce724991, type: 3}
+    options:
+    - Bread
+    - Dumplings
+    - Donuts
+    - Pancake
+    correctAns: Bread
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: What do bees make?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 63aaa8a53b466d84ebc513a9fbacd3a7, type: 3}
+    options:
+    - Jam
+    - Honey
+    - Suggar
+    - Salt
+    correctAns: Honey
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: ____
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 18352a0ea73b1394fa6a1046b6ceac92, type: 3}
+    options:
+    - Egg
+    - Sausage
+    - Beef
+    - Meat
+    correctAns: Meat
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: What is this?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 862c30c71b4cef04fbb65504d5977cb2, type: 3}
+    options:
+    - Cake
+    - Candy
+    - Noodles
+    - Soup
+    correctAns: Noodles
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: Listen and Answer
+    questionType: 3
+    questionImage: {fileID: 0}
+    options:
+    - Coffee
+    - Candy
+    - Cake
+    - Milk
+    correctAns: Candy
+    qustionClip: {fileID: 8300000, guid: 5c5d5fb69494f484185cfa7b91843f15, type: 3}
+    qustionVideo: {fileID: 0}

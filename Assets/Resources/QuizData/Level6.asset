@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3abd2ef9a280d44b89d819ba8169741, type: 3}
+  m_Name: Level6
+  m_EditorClassIdentifier: 
+  level: 6
+  questions:
+  - questionInfor: This is a ____
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 91518049648abc14682f5e44d1ee80f8, type: 3}
+    options:
+    - Sofa
+    - Chair
+    - Lamp
+    - Clock
+    correctAns: Sofa
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: What is this?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 0d545e87ec42a904baef65f9f0a4020f, type: 3}
+    options:
+    - Door
+    - Bed
+    - Television
+    - Cabinet
+    correctAns: Bed
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: ____
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: a6ad86971210a7643ba846a74162cdbb, type: 3}
+    options:
+    - Lamp
+    - Clock
+    - Door
+    - Fan
+    correctAns: Door
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: What should we bring when it rains?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: aad757f97c57e4644a0e5e860cbbc566, type: 3}
+    options:
+    - Pillow
+    - Fan
+    - Book
+    - Umbrella
+    correctAns: Umbrella
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: Listen and Answer
+    questionType: 3
+    questionImage: {fileID: 0}
+    options:
+    - Knife
+    - Spoon
+    - Bowl
+    - Towel
+    correctAns: Knife
+    qustionClip: {fileID: 8300000, guid: f4f3837f6334a2f47be6e5da78a03c02, type: 3}
+    qustionVideo: {fileID: 0}

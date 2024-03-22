@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3abd2ef9a280d44b89d819ba8169741, type: 3}
+  m_Name: Level8
+  m_EditorClassIdentifier: 
+  level: 8
+  questions:
+  - questionInfor: What is his occupation?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 74bc726a0defe7d4784ff5b4a1ed4a8f, type: 3}
+    options:
+    - Designer
+    - Teacher
+    - Doctor
+    - Artist
+    correctAns: Teacher
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: What type of work he you do?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 1d22b96b19cfdb143aacd0ff7b917f74, type: 3}
+    options:
+    - Actor
+    - Artist
+    - Architect
+    - Auditor
+    correctAns: 
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: Im a _____
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: fb8ac579689c30c47aff3582c8da7e45, type: 3}
+    options:
+    - Chef
+    - Doctor
+    - Dancer
+    - Lawyer
+    correctAns: Doctor
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: Who works in a farm?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: e45fdb5c6c5e4214abf03d89160be610, type: 3}
+    options:
+    - Doctor
+    - Lawyer
+    - Teacher
+    - Farmer
+    correctAns: Farmer
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: Listen and Answer
+    questionType: 3
+    questionImage: {fileID: 0}
+    options:
+    - Doctor
+    - Actor
+    - Photographer
+    - Teachet
+    correctAns: Photographer
+    qustionClip: {fileID: 8300000, guid: 56c8d4949f777704b8fafa1f92220b5a, type: 3}
+    qustionVideo: {fileID: 0}

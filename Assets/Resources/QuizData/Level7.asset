@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3abd2ef9a280d44b89d819ba8169741, type: 3}
+  m_Name: Level7
+  m_EditorClassIdentifier: 
+  level: 7
+  questions:
+  - questionInfor: This is very hot
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: c1b69bb7322d6aa41b9132a2cb6b2462, type: 3}
+    options:
+    - Volcano
+    - River
+    - Sea
+    - Mountain
+    correctAns: Volcano
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: This is very tall
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: dad5d09e2bdae864c92ecc3f799549c6, type: 3}
+    options:
+    - Delta
+    - Forest
+    - Mountain
+    - River
+    correctAns: Mountain
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: ___
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: e1afae6c6232faf429c6e9da71c1ad31, type: 3}
+    options:
+    - Sun
+    - Fan
+    - Egg
+    - Bee
+    correctAns: Sun
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: What is this?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 472d282e707fdf24c8fabab27470dc63, type: 3}
+    options:
+    - Sand
+    - Algae
+    - Wave
+    - Fish
+    correctAns: Wave
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: Listen and Answer
+    questionType: 3
+    questionImage: {fileID: 0}
+    options:
+    - Sea
+    - River
+    - Mountain
+    - Hill
+    correctAns: Sea
+    qustionClip: {fileID: 8300000, guid: 48a1a894f99c1a144b6fa25999caeb41, type: 3}
+    qustionVideo: {fileID: 0}

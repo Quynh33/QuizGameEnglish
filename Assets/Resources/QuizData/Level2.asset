@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3abd2ef9a280d44b89d819ba8169741, type: 3}
+  m_Name: Level2
+  m_EditorClassIdentifier: 
+  level: 2
+  questions:
+  - questionInfor: Listen and Answer
+    questionType: 3
+    questionImage: {fileID: 21300000, guid: 86b21133bf9156149b1d7e2c2ec8db1f, type: 3}
+    options:
+    - Car
+    - Bus
+    - Bicycle
+    - Plane
+    correctAns: Bus
+    qustionClip: {fileID: 8300000, guid: 51a46cd811f8c5048ad4ffd70098d156, type: 3}
+    qustionVideo: {fileID: 0}
+  - questionInfor: What is this?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: a457564ad2c168b478359c8956c7c1cf, type: 3}
+    options:
+    - Car
+    - Plane
+    - Helicopter
+    - Motorbike
+    correctAns: Car
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: Which transport run on the ground?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: ffcadd34f31e04e4d92500d62b4ec2b2, type: 3}
+    options:
+    - Plane
+    - Helicopter
+    - Motorbike
+    - Rocket
+    correctAns: Motorbike
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: Which transport run on human power?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: dcd4c3d55a35168408844a07d9772380, type: 3}
+    options:
+    - Motorbike
+    - Bus
+    - Car
+    - Bike
+    correctAns: Bike
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
+  - questionInfor: Which transport run on water?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 0922a165b35f81d4a98e02c4cc336fca, type: 3}
+    options:
+    - Car
+    - Bus
+    - Helicopter
+    - Boat
+    correctAns: Boat
+    qustionClip: {fileID: 0}
+    qustionVideo: {fileID: 0}
